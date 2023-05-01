@@ -14,3 +14,6 @@ This is a react project that features a UI component designed to display data in
 
 ### Testing the application
 To run the test suite, run npm test
+
+### Demo
+https://aquamarine-eclair-8d2567.netlify.app/
